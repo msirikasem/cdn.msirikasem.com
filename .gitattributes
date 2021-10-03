@@ -1,0 +1,10 @@
+
+# Save images as binary files
+*.gif binary
+*.jpg binary
+*.png binary
+*.svg binary
+
+# Save resume as binary file
+*.pdf binary
+
